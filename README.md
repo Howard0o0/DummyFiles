@@ -1,2 +1,1 @@
-# FTP
 Temporary file repository
